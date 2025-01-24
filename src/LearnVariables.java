@@ -28,7 +28,7 @@ public class LearnVariables {
         //Can display and add variables to using (+) symbol between variables
         //Can assign the same value to multiple variables in one line
 
-        //Identifiers: Have good variable names and use camelcase when naming (is case sensitive)
+        //Identifiers: Have good variable names and use camelcase when naming (is case-sensitive)
         //Variables can have names that already exist for something else
 
         //Variable types: String, int, char, boolean, float, double (Primitive meaning built in) (Non-primitive meaning not built in)
@@ -40,5 +40,21 @@ public class LearnVariables {
 
         //Operators are used to perform operations like adding or conditions on variables/values
         //Operator types: Arithmetic, assignment, comparison, logical, bitwise
+
+        //Java strings: There are many methods that can be used for strings (concat, length, indexOf)
+        //Can add strings together with the + between them or using concat. Strings concat. Integers add
+        //Can include single and double quotes in a string by doing \" or \'
+
+        //There are several methods within the java math library
+        //Min, max, sqrt, abs, random || Random works like this
+            // int randomNum = (int)(Math.random() * 101); Gets random num from 0 to 100
+
+        //Boolean values takes true/false and comparison operators
+        //Works with conditionals to take an action in one way if something and a different way if something else
+
+        //Java If...Else
+        //If, else, else if, switch
+        //if (condition) {} || else if (condition) {} || else {}
+
     }
 }
